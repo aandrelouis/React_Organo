@@ -21,7 +21,7 @@ O projeto foi desenvolvido durante do curso **React: desenvolvendo com JavaScrip
 
 ## :information_source: O que é o Organo?
 
-Organo é uma aplicação construída em react onde nela conseguimos criar colaboradores das escolas de conteúdo da Alura e depois organizar e mostrar de forma separada como é a constituição de cada time Além disso, a aplicação é completamente dinâmica, então os elementos se atualizam em tempo real se uma nova informação for adicionada.
+Organo é uma aplicação construída em react onde nela conseguimos criar colaboradores das escolas de conteúdo da Alura e depois organizar e mostrar de forma separada como é a constituição de cada time. Além disso, a aplicação é completamente dinâmica, então os elementos se atualizam em tempo real se uma nova informação for adicionada.
 
 
 ## 🧑‍💻 Tecnologias
