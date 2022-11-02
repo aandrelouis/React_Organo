@@ -2,7 +2,11 @@
 
 O projeto foi desenvolvido durante do curso **React: desenvolvendo com JavaScript** em que é feita uma aplicação do zero em React, cujo o objetivo da aplicação é tornar possível a criação de colaboradores de diferentes áreas e depois organizar e mostrar as equipes de cada área na tela.
 
+
+
 ![foto1](https://github.com/aandrelouis/React_Organo/blob/main/src/Assets/App/foto1.png)
+
+
 
 ![foto2](https://github.com/aandrelouis/React_Organo/blob/main/src/Assets/App/foto2.png)
 
@@ -16,7 +20,7 @@ O projeto foi desenvolvido durante do curso **React: desenvolvendo com JavaScrip
 Organo é uma aplicação construída em react onde nela conseguimos criar colaboradores das escolas de conteúdo da Alura e depois organizar e mostrar de forma separada como é a constituição de cada time Além disso, a aplicação é completamente dinâmica, então os elementos se atualizam em tempo real se uma nova informação for adicionada.
 
 <h1 align="center">
-    <img alt="Demonstracao" title="Demonstracao" src=".Assets/Organo.gif" width="800px" />
+    <img alt="Demonstracao" title="Demonstracao" src="https://github.com/aandrelouis/React_Organo/blob/main/src/Assets/App/Organo.gif" width="800px" />
 </h1>
 
 
