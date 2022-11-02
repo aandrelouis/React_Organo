@@ -2,9 +2,9 @@
 
 O projeto foi desenvolvido durante do curso **React: desenvolvendo com JavaScript** em que é feita uma aplicação do zero em React, cujo o objetivo da aplicação é tornar possível a criação de colaboradores de diferentes áreas e depois organizar e mostrar as equipes de cada área na tela.
 
-![foto1](https://github.com/aandrelouis/React_Organo/blob/main/src/assets/App/foto1.png)
+![foto1](https://github.com/aandrelouis/React_Organo/blob/main/src/Assets/App/foto1.png)
 
-![foto2](https://github.com/aandrelouis/React_Organo/blob/main/src/assets/App/foto2.png)
+![foto2](https://github.com/aandrelouis/React_Organo/blob/main/src/Assets/App/foto2.png)
 
 
 <h4 align="center"> 
